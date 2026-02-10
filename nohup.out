@@ -1,0 +1,21 @@
+
+> orobas@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v7.1.12  ready in 174 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://192.168.1.29:5174/
+
+> orobas@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v7.1.12  ready in 172 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://192.168.1.29:5175/
