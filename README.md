@@ -7,7 +7,7 @@ Room automation for **my office** using an ESP32 for lights and an ESP8266 for a
 ## Screenshots
 
 ### Lights
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/878775d6-4ea0-4222-abbd-8977df65bdd9" />
+![lights resized](https://github.com/user-attachments/assets/9d644314-b052-41e9-afec-dbd0cdaf3189)
 
 ### Fan
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/0fcf6c9e-348a-43d5-8592-721411bc247a" />
